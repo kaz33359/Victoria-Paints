@@ -141,11 +141,11 @@ $('.navbar-nav li.nav-item ul li.dropdown-item').on('click', function(){
 
     // RTL Switcher
 
-    $('.psg-icon').on('click', function(){
+  //   $('.psg-icon').on('click', function(){
 
-      $(this).parent().toggleClass('active');
+  //     $(this).parent().toggleClass('active');
 
-  });
+  // });
   
 
 
