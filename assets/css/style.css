@@ -342,13 +342,13 @@ div.spinner i:nth-child(7) {
 /* End Animation CSS */
 /* 2.1 Heder-area*/
 .paint-nav .navbar-brand img{
-    height: 100px;
+    height: 135px;
     position: relative;
     z-index: 1;
-    right: 100px;
+    right: 140px;
     top: 10px;
     padding-bottom: 10px;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
 }
 .paint-nav .navbar-light .navbar-nav li.nav-item {
     padding: 12px 0px 5px;
@@ -364,7 +364,8 @@ div.spinner i:nth-child(7) {
     cursor: pointer;
     text-align: center;
     display: inline-block;
-    font-size: 14px;
+    font-size: 17px;
+    font-weight: 600;
     font-family: 'Arvo', serif;
     text-transform: uppercase;
     color: rgb(5, 5, 5);
@@ -1492,6 +1493,7 @@ span.learn-li {
     width: 66%;
     padding-top: 10px;
     margin: 0px auto;
+    font-size: 16px;
 }
 .pro-ask-content-2 {
     padding: 40% 0%;
@@ -1671,7 +1673,7 @@ span#basic-addon2 {
     border: none;
 }
 .footer-content {
-    padding-top: 110px;
+    /* padding-top: 110px; */
 }
 ul.single-footer-widget {
     list-style: none;

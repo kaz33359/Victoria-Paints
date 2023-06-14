@@ -330,7 +330,10 @@ header.header-area.header-area6 {
         line-height: 75px;
     }
     .paint-nav .navbar-brand img {
-        height: 45px;
+        height: 50px;
+        right: 0px;
+        top: 0px;
+        padding-bottom: 0px;
     }
     .header2-nav .navbar-brand {
         width: 70px;
