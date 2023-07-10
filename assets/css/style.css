@@ -441,7 +441,7 @@ header.header-area {
 }
 .navbar-nav.hp-1-nav {
     background-image: url(../images/nav-backg.png);
-    left: 160px;
+    left: 150px;
     width: 80%;
     height: 100px;
     top: 18px;
@@ -782,7 +782,7 @@ button.btn-block.ebtn-r.ebtn-6 {
     box-shadow: 0px 0px 10px -1px rgba(92, 78, 78, 0.75);
 }
 .paints-service{
-    margin-top: -200px;
+    margin-top: -144px;
 }
 .ss-home4{
     color: #fff;
